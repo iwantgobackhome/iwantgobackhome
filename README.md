@@ -3,7 +3,7 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdowan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits"/>
   <a href="https://blog.naver.com/PostList.naver?blogId=asd8217924"><img src="https://img.shields.io/badge/Blog-dev--blog.link-111111?style=flat-square&logo=ghost&logoColor=white" /></a>
   <a href="mailto:asd8217924@g.skku.edu"><img src="https://img.shields.io/badge/Email-asd8217924@g.skku.edu-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Suwon, Korea-blue?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Seoul, Korea-blue?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
