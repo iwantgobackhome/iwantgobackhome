@@ -62,6 +62,6 @@
 
 ### 📊 GitHub Analytics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dowan&show_icons=true&theme=radical&count_private=true" alt="Dowan's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dowan&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iwantgobackhome&show_icons=true&theme=radical&count_private=true" alt="Dowan's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwantgobackhome&layout=compact&theme=radical" alt="Top Languages" height="180px" />
 </p>
