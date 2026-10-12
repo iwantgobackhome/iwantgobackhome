@@ -54,5 +54,5 @@
 ---
 
 ### 🏆 Honors & Awards
-* **Academic Excellence Award (Top Honors)** - Dong Seoul University (Feb. 2025).
+* **Academic Excellence Award (Top Honors)** - (Feb. 2025).
 * **Academic Excellence Scholarship** (Total 5 Semesters).
